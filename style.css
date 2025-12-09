@@ -1,28 +1,7 @@
-* {
-  font-family: Poppins, sans-serif;
-}
-
-body {
-  overflow-x: hidden;
-  position: relative;
-}
-
-#signup,
-#login {
+/* #signup, #login {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
-}
-
-#signup .row,
-#login .row {
-  min-height: 100vh;
-}
-
-#signup img,
-#login img {
-  object-fit: cover;
-  height: 100%;
-}
+  transition: all 0.5s ease-in-out;
+} */
